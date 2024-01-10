@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Garux0
 - 👀 I’m interested in blockchain development
-- 🌱 I’m currently learning data analyse
-- 💞️ I’m looking to collaborate on data analyse class
+- 🌱 I’m currently learning data analysis
+- 💞️ I’m looking to collaborate on data analysis class
 - 📫 How to reach me... garuxabiodun@gmail.com
 
 <!---
